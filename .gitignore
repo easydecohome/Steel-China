@@ -3,3 +3,8 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Local copies / build artifacts
+www/
+logs/
+*.zip
